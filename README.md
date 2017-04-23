@@ -15,3 +15,4 @@
 	mit den Datensätzen der Bewertung
 
 - keine Default-Atmo => "leerer Start" 
+- CHANGES AUSPROBIEREN HALLO COMMIT
