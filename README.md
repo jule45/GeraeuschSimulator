@@ -16,3 +16,23 @@
 
 - keine Default-Atmo => "leerer Start" 
 
+
+Neue Notizen 05.05.17
+
+Web Audio API:
+
+Must Have:
+-Soundauswahl in Buffer ladbar (dynamisch)  
+	hierbei müssen die Sounds gleichzeitig oder auch verzögert abspielbar sein (entscheidet der Benutzer)
+-Sounds aus Datenbank mit API verknüpfen (MySQL ?)
+-Sounds im Raum platzierbar (Raumempfindung soundtechnisch realisieren)
+-Volume über Scrollrad veränderbar 
+-Soundkonstellation exportierbar machen (Speichern des Szenario), und wieder aufrufbar sein
+
+
+Sound-Datenbank
+
+Must Have:
+-dynamisch (MySQL)
+-in Kategorien unterteilEN (Natur, Stadt, ...) <- mit Sound Gruppe absprechen
+-Sounds mit Preview vorhörbar
